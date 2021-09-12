@@ -1,1 +1,2 @@
-Monitoring Security Groups with Amazon CloudWatch Events 
+Monitoring Security Groups with Amazon CloudWatch Events
+Monitoring Security Groups with AWS Config 
